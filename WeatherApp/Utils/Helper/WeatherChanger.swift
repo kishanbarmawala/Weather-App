@@ -143,8 +143,8 @@ class WeatherChanger {
         
         let snowCell = CAEmitterCell()
         snowCell.contents = UIImage(systemName: "snowflake")?.cgImage
-        snowCell.scale = 0.05
-        snowCell.birthRate = 10
+        snowCell.scale = 0.15
+        snowCell.birthRate = 5
         snowCell.lifetime = 10.0
         snowCell.velocity = 50
         snowCell.emissionLongitude = .pi

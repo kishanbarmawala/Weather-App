@@ -1,6 +1,9 @@
 # 🌦️ Weather App
 
-A **native iOS weather app** built using **UIKit and Swift 5**, providing **current weather** and **2-3 day forecasts**. It supports both **geolocation-based weather fetching** and **manual city input**. The app ensures smooth user experience through interactive animations and day/night-themed colors, following the **MVVM architecture** with no third-party dependencies.
+[![Swift 5.0](https://img.shields.io/badge/Swift-5.10-orange.svg?style=flat)](https://developer.apple.com/swift/)
+[![Platforms iOS](https://img.shields.io/badge/Platforms-iOS-green.svg?style=flat)](http://www.apple.com/ios/)
+
+A **native iOS weather app**, providing **current weather** and **6 days forecasts**. It supports both **geolocation-based weather fetching** and **manual city input**. The app ensures smooth user experience through interactive animations and day/night-themed colors, following the **MVVM architecture** with no third-party dependencies.
 
 ---
 
@@ -9,8 +12,7 @@ A **native iOS weather app** built using **UIKit and Swift 5**, providing **curr
 - **Weather for Current Location**
 
   - If the user grants **location permission**, the app fetches weather data for the current city.
-  - Includes a **pull-to-refresh** option for refreshing the current location's weather.  
-    _(Note: Pull-to-refresh will override manually entered city data.)_
+  - By pressing gps floating button will fetch current location weather details.
 
 - **Manual City Input**
 
@@ -37,10 +39,9 @@ A **native iOS weather app** built using **UIKit and Swift 5**, providing **curr
 
 ## 📱 Preview
 
-https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-1.png
-| Few clouds | Clear sky | Night | Rain |
-| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-1.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-2.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-3.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-4.mp4) |
+|                                    Few clouds                                    |                                    Clear sky                                     |                                      Night                                       |                                       Rain                                       |
+| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-1.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-2.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-3.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-4.gif) |
 
 ---
 
@@ -104,25 +105,6 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture, ensuring:
 ## 💻 Screenshots
 
 _(Add relevant screenshots or GIFs here to showcase animations and themes.)_
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch
-   ```
-5. Open a pull request.
 
 ---
 
