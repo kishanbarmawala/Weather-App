@@ -37,7 +37,7 @@ A **native iOS weather app**, providing **current weather** and **6 days forecas
 
 ---
 
-## 📱 Preview
+## 📱 Screenshots
 
 Preview 1                  | Preview 2                 | Preview 3                 | Preview 4                  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -99,12 +99,6 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture, ensuring:
 
 - **Invalid City Name**  
   Displays a **"City not found"** message when the input city is unrecognized.
-
----
-
-## 💻 Screenshots
-
-_(Add relevant screenshots or GIFs here to showcase animations and themes.)_
 
 ---
 
