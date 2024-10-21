@@ -39,8 +39,8 @@ A **native iOS weather app**, providing **current weather** and **6 days forecas
 
 ## 📱 Preview
 
-|                                    Few Clouds                                    |                                    Clear Sky                                     |                                      Night                                       |                                       Night Rain                                       |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+Preview 1                  | Preview 2                 | Preview 3                 | Preview 4                  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-1.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-2.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-3.png) | ![](https://github.com/kishanbarmawala/Weather-App/blob/main/Preview/demo-4.gif) |
 
 ---
