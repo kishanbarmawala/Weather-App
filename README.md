@@ -110,6 +110,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📧 Contact
 
-For any questions or suggestions, contact me at **kishanbarmawala7@gmail.com**.
+For any questions, feedback, or suggestions, please reach out to me at:
+
+- Email: [kishanbarmawala7@gmail.com](mailto:kishanbarmawala7@gmail.com)
+- LinkedIn: [Kishan Barmawala](https://www.linkedin.com/in/kishan-barmawala/)
+
+Your thoughts are greatly appreciated!
 
 ---
